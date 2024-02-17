@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="pokeName">Adi : Pikachu</string>
+    <string name="pokeType">Turu : Elektrik</string>
+    <string name="pokeNumber">Pokedex Numarası : #0025</string>
+    <string name="nextButton">Sonraki Pokemon</string>
+    <string name="previousButton">Onceki Pokemon</string>
+</resources>

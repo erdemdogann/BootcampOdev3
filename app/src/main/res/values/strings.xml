@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="pokeName">Name : Pikachu</string>
+    <string name="pokeType">Type : Electric</string>
+    <string name="pokeNumber">Pokedex Number : #0025</string>
+    <string name="nextButton">Next Pokemon</string>
+    <string name="previousButton">Previous Pokemon</string>
+</resources>
