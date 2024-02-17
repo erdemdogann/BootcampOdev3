@@ -1,1 +1,1 @@
-Techareer Kotlin BootCamp 3. ödevi.
+Techareer Kotlin Bootcamp 3. ödevi.
